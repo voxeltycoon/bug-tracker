@@ -19,9 +19,9 @@ If you want to suggest a feature, or think some aspect should be improved or cha
 
 ### Saves
 
-* Windows `%appdata%/../LocalLow/VoxelTycoon/VoxelTycoon/Saves`
-* macOS `~/Library/Application Support/VoxelTycoon/VoxelTycoon/Saves`
-* Linux `~/.config/unity3d/VoxelTycoon/VoxelTycoon/Saves`
+* Windows: `%appdata%/../LocalLow/VoxelTycoon/VoxelTycoon/Saves`
+* macOS: `~/Library/Application Support/VoxelTycoon/VoxelTycoon/Saves`
+* Linux: `~/.config/unity3d/VoxelTycoon/VoxelTycoon/Saves`
 
 # Troubleshooting
 
