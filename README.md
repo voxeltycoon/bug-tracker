@@ -27,8 +27,6 @@ If you want to suggest a feature, or think some aspect should be improved or cha
 
 ## Game doesn't start on macOS
 
-### Description
-
 Game doesn't load past `Loading assets...` screen on macOS.
 
 ### Solution
@@ -40,8 +38,6 @@ If your purchase is not linked to your account, or you doesn't remember your acc
 ### 
 
 ## Audio not working
-
-### Description
 
 No audio in the game, `FMOD failed to initialize. This may be because your sound card is configured to give applications exclusive access` error appears in logs.
 
