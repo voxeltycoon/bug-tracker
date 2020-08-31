@@ -33,7 +33,7 @@ Game doesn't load past `Loading assets...` screen on macOS.
 
 Run the game via [Itch App](//itch.io/app).
 
-If your purchase is not linked to your account, or you doesn't remember your acccount, please go there for help: https://itch.io/docs/buying/already-bought.
+If your purchase is not linked to your account, or you don't remember your acccount, please go there for help: https://itch.io/docs/buying/already-bought.
 
 ### 
 
