@@ -47,4 +47,4 @@ No audio in the game, `FMOD failed to initialize. This may be because your sound
 
 ### Solution
 
-Unintall **Asus Sonic Studio**, **Asus Sonic Radar**, and **Hahimic** apps.
+Uninstall **Asus Sonic Studio**, **Asus Sonic Radar**, and **Hahimic** apps.
