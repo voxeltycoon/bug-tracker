@@ -15,7 +15,7 @@ If you want to suggest a feature, or think some aspect should be improved or cha
 * macOS: `~/Library/Logs/VoxelTycoon/VoxelTycoon/Player.log`
 * Linux: `~/.config/unity3d/VoxelTycoon/VoxelTycoon/Player.log`
 
-> Please note that logs are cleared when the game starts, so send us logs just after the issue appeared, before restarting the game.
+> Please note that logs are cleared when the game starts, so logs should be sent just after the issue appeared, before restarting the game.
 
 ### Saves
 
