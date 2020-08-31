@@ -20,3 +20,6 @@ OS name and version.
 
 **Reproducibility**
 How often an issue reproduces: every time, often, rare, once.
+
+**Logs/saves**
+Attach [logs or saves](https://github.com/voxeltycoon/bug-tracker/blob/master/README.md#logs) if applicable.
