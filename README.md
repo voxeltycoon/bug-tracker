@@ -27,13 +27,11 @@ If you want to suggest a feature, or think some aspect should be improved or cha
 
 ## Game doesn't start on macOS
 
-Game doesn't load past `Loading assets...` screen on macOS.
+Game doesn't load past `Loading...` screen on macOS.
 
 ### Solution
 
-Run the game via [Itch App](//itch.io/app).
-
-If your purchase is not linked to your account, or you don't remember your acccount, please go there for help: https://itch.io/docs/buying/already-bought.
+[Disable Gatekeeper](https://disable-gatekeeper.github.io/).
 
 ### 
 
