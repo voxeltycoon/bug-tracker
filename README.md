@@ -42,3 +42,17 @@ No audio in the game, `FMOD failed to initialize. This may be because your sound
 ### Solution
 
 Uninstall **Asus Sonic Studio**, **Asus Sonic Radar**, and **Hahimic** apps.
+
+## The game has visual glitches
+
+* The game crashes on start
+* Visual glitches occure
+* Mouse cursor is blinking
+* Framerate too low even in simple scenes
+
+### Solution
+
+Please update your video drivers to the latest version.
+* NVIDIA: https://www.nvidia.com/ru-ru/geforce/drivers/
+* AMD: https://www.amd.com/en/support
+
