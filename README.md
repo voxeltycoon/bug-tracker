@@ -5,7 +5,7 @@ This tracker is intended to report bugs, or look for known issues.
 * Please use [predefined template](https://github.com/voxeltycoon/bug-tracker/issues/new?assignees=&template=bug.md&title=) for new issues
 * [Search](https://github.com/voxeltycoon/bug-tracker/issues?q=is%3Aissue) before posting in case such a bug was already repoted.
 
-If you want to suggest a feature, or think some aspect should be improved or changed, we have a [suggestions tracker](https://github.com/voxeltycoon/suggestions/issues) for that.
+If you want to suggest a feature, or think some aspect should be improved or changed, we have a [suggestions tracker](https://github.com/voxeltycoon/suggestions/discussions) for that.
 
 # Logs/saves locations
 
